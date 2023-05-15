@@ -1,0 +1,102 @@
+/*  
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    main {
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 28px;
+    }
+
+    p {
+      margin-bottom: 20px;
+    }
+  */
+  
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10;
+  }
+  img{ 
+    max-width: 300px;
+  }
+  body{
+    background-color: #4C4C6D;
+    color: white;
+    max-width: 1000px;
+    margin: auto;
+    padding: 2rem 2rem;
+  }
+  header{
+   text-align: center;
+    background-color: #E8F6EF;
+  }
+  
+  h1{
+    
+    background-color: #FFE194;
+    color: #4C4C6D;
+    text-align: center;
+    padding: 0.5rem 0.5rem;
+    border-radius: 5px;
+    font-size: 2rem;
+    
+  }
+  .whatisai{
+    height: 300px;
+    background-color: #1B9C85;
+    font-size: 24px;
+    padding: 0.3rem 0.3rem;
+ 
+    
+    
+  }
+  .whatisaiimg{
+    float: right;
+    
+  }
+  .applicationsofai{
+   text-align: start;
+    background-color: #FFE194;
+    font-size: 20px;
+    padding: 0.3rem 0.3rem;
+    color:#4C4C6D;
+    height: 300px;
+  }
+  .applicationsofai li{
+    list-style: none;
+  }
+  .thefutureofai{
+    background-color: #4C4C6D;
+    font-size: 20px;
+    padding: 0.3rem 0.3rem;
+    border: 2px solid #1B9C85;
+  }
+  .conclusion{
+    background-color: #70f1da;
+    font-size: 20px;
+    padding: 0.3rem 0.3rem;color: #4C4C6D;
+  }
+  footer{
+padding: 2rem 0;
+  }
+
+  
+
+  
